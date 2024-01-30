@@ -14,12 +14,16 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140"/>
     </view>
-    <userdata heading="0" description="" title="저고도" info="" nodeid="node3" copyright="" datetime="2024-01-27 오후 2:39" latitude="35.201514" altitude="-24.04" source="" customnodeid="" comment="" author="" longitude="126.833549" tags="광주 디프리마현장"/>
+    <userdata heading="0" description="" title="저고도" info="" nodeid="node3" copyright="" datetime="2024-01-27 오후 2:39" latitude="35.201514" altitude="-24.04" source="" customnodeid="" comment="" author="" longitude="126.833549" tags="광주 디프리마현장|저고도"/>
     <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
       <label enabled="1" borderalpha="1" wordwrap="1" height="20" border="1" background="1" width="180" textalpha="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff"/>
       <polystyle backgroundalpha="0.25098" borderalpha="1" mode="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1"/>
     </hotspots>
-    <media/>
+    <media>
+      <image id="Element01" rotx="0.000" height="1232" hidepinned="0" tilt="-18.410" width="1840" pan="-1.910" rotz="0.000" stretch="1.000" fov="43.660" popbackmode="0" handcursor="0" roty="0.000" clickmode="0">
+        <source url="media/ .png"/>
+      </image>
+    </media>
     <transition zoomafteroutfov="40" enabled="1" blendcolor="0x000000" zoomspeed="2" zoomoutpause="1" zoomin="0" zoomafterinfov="140" zoomfov="40" blendtime="1" delay="none" softedge="0" zoomout="0" type="crossdissolve"/>
     <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
     <control invertwheel="0" contextfullscreen="1" contextvr="1" contextprojections="0" dblclickfullscreen="0" rubberband="0" zoomcentercursor="1" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" hideabout="0" speedwheel="1" lockedkeyboard="0" lockedwheel="0" simulatemass="1" lockedmouse="0"/>
@@ -33,12 +37,12 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start projection="4" pan="-0.389026" tilt="-60.9169" fov="44.4837"/>
+      <start projection="4" pan="-26.7824" tilt="-16.8212" fov="81.8827"/>
       <flyin projection="9" pan="0" tilt="-90" fov="170"/>
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fovfisheye="360" pan="360" fovstereographic="330" scaletofit="1" tilt="90" fov="140"/>
     </view>
-    <userdata heading="0" description="" title="고고도" info="" nodeid="node2" copyright="" datetime="2024-01-27 오후 2:35" latitude="35.201534" altitude="234.06" source="" customnodeid="" comment="" author="" longitude="126.833517" tags="광주 디프리마현장"/>
+    <userdata heading="0" description="" title="고고도" info="" nodeid="node2" copyright="" datetime="2024-01-27 오후 2:35" latitude="35.201534" altitude="234.06" source="" customnodeid="" comment="" author="" longitude="126.833517" tags="고고도|광주 디프리마현장"/>
     <hotspots wordwrap="1" smoothmovement="0" height="20" width="180">
       <label enabled="1" borderalpha="1" wordwrap="1" height="20" border="1" background="1" width="180" textalpha="1" backgroundalpha="1" bordercolor="0x000000" textcolor="0x000000" borderradius="1" backgroundcolor="0xffffff"/>
       <polystyle backgroundalpha="0.25098" borderalpha="1" mode="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" handcursor="1"/>
@@ -187,7 +191,7 @@
         <source url="media/image-25.png"/>
       </image>
       <image id="Element01" rotx="0.000" height="960" hidepinned="0" tilt="-61.980" width="768" pan="-0.990" rotz="0.000" stretch="1.000" fov="18.760" popbackmode="0" handcursor="0" roty="0.000" clickmode="0">
-        <source url="media/2-1.png"/>
+        <source url="media/3.png"/>
       </image>
       <image id="Element02" rotx="0.000" height="544" hidepinned="0" tilt="-5.320" width="1984" pan="62.750" rotz="0.000" stretch="1.000" fov="46.760" popbackmode="0" handcursor="0" roty="0.000" clickmode="0">
         <source url="media/image.png"/>
