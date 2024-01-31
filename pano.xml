@@ -21,7 +21,7 @@
     </hotspots>
     <media>
       <image rotx="0.000" fov="43.660" width="1840" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-1.910" tilt="-18.410" height="1232" clickmode="0" rotz="0.000" id="Element01" popbackmode="0">
-        <source url="media/ .png"/>
+        <source url="media/ 3.png"/>
       </image>
     </media>
     <transition enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" delay="none" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomin="0" type="crossdissolve"/>
@@ -100,13 +100,13 @@
       </polyhotspot>
     </hotspots>
     <media>
-      <image rotx="-14.000" fov="5.000" width="317" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-44.370" tilt="-14.200" height="300" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
+      <image rotx="-14.000" fov="5.000" width="317" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-44.690" tilt="-15.010" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-1.png"/>
       </image>
-      <image rotx="-19.000" fov="5.000" width="317" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-26.730" tilt="-17.760" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-19.000" fov="5.000" width="317" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-27.210" tilt="-17.850" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-2.png"/>
       </image>
-      <image rotx="-26.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-27.340" tilt="-13.250" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-26.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-26.040" tilt="-12.670" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-3.png"/>
       </image>
       <image rotx="-10.000" fov="5.000" width="317" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-21.290" tilt="-9.460" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
@@ -115,86 +115,113 @@
       <image rotx="-19.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-1.440" tilt="-6.620" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-5.png"/>
       </image>
-      <image rotx="-9.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-65.350" tilt="-8.320" height="100" clickmode="0" rotz="-1.000" id="생활" popbackmode="0">
+      <image rotx="-9.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-66.010" tilt="-8.080" height="100" clickmode="0" rotz="-2.000" id="생활" popbackmode="0">
         <source url="media/image-6.png"/>
       </image>
-      <image rotx="-10.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-58.880" tilt="-8.190" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-10.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-58.520" tilt="-8.160" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-7.png"/>
       </image>
-      <image rotx="-13.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-49.780" tilt="-10.770" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-13.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-49.400" tilt="-11.150" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-8.png"/>
       </image>
       <image rotx="-9.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-53.370" tilt="-5.460" height="100" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
         <source url="media/image-9.png"/>
       </image>
-      <image rotx="-9.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-41.980" tilt="-4.690" height="100" clickmode="0" rotz="0.000" id="생활" popbackmode="0">
+      <image rotx="-9.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-41.560" tilt="-4.950" height="100" clickmode="0" rotz="0.000" id="생활" popbackmode="0">
         <source url="media/image-10.png"/>
       </image>
-      <image rotx="-22.000" fov="15.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-107.110" tilt="-33.010" height="100" clickmode="0" rotz="0.000" id="교통" popbackmode="0">
+      <image rotx="-28.000" fov="10.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-100.350" tilt="-14.530" height="100" clickmode="0" rotz="-6.000" id="교통" popbackmode="0">
         <source url="media/image-11.png"/>
       </image>
-      <image rotx="0.000" fov="5.000" width="307" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-105.460" tilt="-7.360" height="300" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
+      <image rotx="-11.000" fov="5.000" width="307" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-105.630" tilt="-7.910" height="300" clickmode="0" rotz="-2.000" id="자연" popbackmode="0">
         <source url="media/image-12.png"/>
       </image>
-      <image rotx="-21.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-87.760" tilt="-11.100" height="100" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
+      <image rotx="-23.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-87.760" tilt="-11.100" height="100" clickmode="0" rotz="-1.000" id="자연" popbackmode="0">
         <source url="media/image-13.png"/>
       </image>
       <image rotx="0.000" fov="11.000" width="341" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-325.490" tilt="-9.280" height="307" clickmode="0" rotz="0.000" id="교통" popbackmode="0">
         <source url="media/2.png"/>
       </image>
-      <image rotx="-8.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-199.600" tilt="-8.240" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-30.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-199.600" tilt="-8.240" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-15.png"/>
       </image>
-      <image rotx="-10.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-225.220" tilt="-6.940" height="100" clickmode="0" rotz="0.000" id="생활" popbackmode="0">
+      <image rotx="-14.000" fov="6.000" width="100" handcursor="0" roty="10.000" hidepinned="0" stretch="1.000" pan="-225.940" tilt="-6.920" height="100" clickmode="0" rotz="-1.000" id="생활" popbackmode="0">
         <source url="media/image-10.png"/>
       </image>
-      <image rotx="-9.000" fov="5.000" width="307" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-221.950" tilt="-5.970" height="307" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
+      <image rotx="-25.000" fov="6.000" width="307" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-219.770" tilt="-7.320" height="307" clickmode="0" rotz="-1.000" id="자연" popbackmode="0">
         <source url="media/image-16.png"/>
       </image>
-      <image rotx="-10.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-216.000" tilt="-14.690" height="100" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
+      <image rotx="-22.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-216.000" tilt="-14.690" height="100" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
         <source url="media/image-17.png"/>
       </image>
       <image rotx="-44.000" fov="8.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-185.940" tilt="-32.460" height="100" clickmode="0" rotz="0.000" id="생활" popbackmode="0">
         <source url="media/kS.png"/>
       </image>
-      <image rotx="-22.000" fov="8.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-244.220" tilt="-15.620" height="100" clickmode="0" rotz="-5.000" id="교육" popbackmode="0">
+      <image rotx="-32.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-245.680" tilt="-16.410" height="100" clickmode="0" rotz="-4.000" id="교육" popbackmode="0">
         <source url="media/image-14.png"/>
       </image>
-      <image rotx="-12.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-230.670" tilt="-8.250" height="100" clickmode="0" rotz="-1.000" id="생활" popbackmode="0">
+      <image rotx="-18.000" fov="6.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-231.270" tilt="-8.720" height="100" clickmode="0" rotz="-1.000" id="생활" popbackmode="0">
         <source url="media/image-18.png"/>
       </image>
-      <image rotx="-25.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-240.420" tilt="-10.940" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-28.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-240.460" tilt="-10.940" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-15.png"/>
       </image>
-      <image rotx="-21.000" fov="4.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-243.580" tilt="-6.370" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-24.000" fov="4.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-243.580" tilt="-6.370" height="100" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
         <source url="media/image-19.png"/>
       </image>
-      <image rotx="-10.000" fov="8.000" width="332" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-160.240" tilt="-15.700" height="307" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
+      <image rotx="-27.000" fov="7.000" width="332" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-160.260" tilt="-15.700" height="307" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-20.png"/>
       </image>
-      <image rotx="-7.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-140.450" tilt="-11.200" height="100" clickmode="0" rotz="3.000" id="교육" popbackmode="0">
+      <image rotx="-20.000" fov="6.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-139.750" tilt="-11.390" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-21.png"/>
       </image>
-      <image rotx="0.000" fov="5.000" width="339" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-144.200" tilt="-12.020" height="300" clickmode="0" rotz="2.000" id="교육" popbackmode="0">
+      <image rotx="-24.000" fov="5.000" width="339" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-143.710" tilt="-12.510" height="300" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-22.png"/>
       </image>
-      <image rotx="-11.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-148.140" tilt="-13.320" height="100" clickmode="0" rotz="2.000" id="교육" popbackmode="0">
+      <image rotx="-26.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-149.210" tilt="-13.230" height="100" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
         <source url="media/image-20.png"/>
       </image>
-      <image rotx="-17.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-137.970" tilt="-7.390" height="100" clickmode="0" rotz="2.000" id="교육" popbackmode="0">
+      <image rotx="-24.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-138.110" tilt="-7.210" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-23.png"/>
       </image>
-      <image rotx="0.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-131.100" tilt="-13.690" height="100" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="0.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-130.130" tilt="-14.070" height="100" clickmode="0" rotz="-2.000" id="교육" popbackmode="0">
         <source url="media/image-24.png"/>
       </image>
-      <image rotx="-11.000" fov="7.000" width="378" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-120.360" tilt="-17.110" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
+      <image rotx="-11.000" fov="7.000" width="378" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-120.240" tilt="-17.080" height="300" clickmode="0" rotz="0.000" id="교육" popbackmode="0">
         <source url="media/image-25.png"/>
-      </image>
-      <image rotx="0.000" fov="18.760" width="768" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-0.990" tilt="-61.980" height="960" clickmode="0" rotz="0.000" id="Element01" popbackmode="0">
-        <source url="media/3.png"/>
       </image>
       <image rotx="0.000" fov="46.760" width="1984" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="62.750" tilt="-5.320" height="544" clickmode="0" rotz="0.000" id="Element02" popbackmode="0">
         <source url="media/image.png"/>
+      </image>
+      <image rotx="-20.000" fov="6.000" width="413" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-62.170" tilt="-19.130" height="307" clickmode="0" rotz="-3.000" id="교육" popbackmode="0">
+        <source url="media/image-26.png"/>
+      </image>
+      <image rotx="-38.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-273.330" tilt="-22.640" height="100" clickmode="0" rotz="-1.000" id="자연" popbackmode="0">
+        <source url="media/1.png"/>
+      </image>
+      <image rotx="-28.000" fov="8.000" width="368" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-255.010" tilt="-22.940" height="300" clickmode="0" rotz="2.000" id="자연" popbackmode="0">
+        <source url="media/image-27.png"/>
+      </image>
+      <image rotx="-41.000" fov="7.000" width="100" handcursor="0" roty="-1.000" hidepinned="0" stretch="1.000" pan="-262.290" tilt="-19.460" height="100" clickmode="0" rotz="3.000" id="생활" popbackmode="0">
+        <source url="media/image-28.png"/>
+      </image>
+      <image rotx="-45.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-291.000" tilt="-26.590" height="100" clickmode="0" rotz="0.000" id="생활" popbackmode="0">
+        <source url="media/image-29.png"/>
+      </image>
+      <image rotx="-22.000" fov="9.000" width="270" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-73.840" tilt="-22.730" height="300" clickmode="0" rotz="-2.000" id="교통" popbackmode="0">
+        <source url="media/IC.png"/>
+      </image>
+      <image rotx="0.000" fov="18.770" width="768" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-1.550" tilt="-62.240" height="960" clickmode="0" rotz="0.000" id="Element01" popbackmode="0">
+        <source url="media/4.png"/>
+      </image>
+      <image rotx="-25.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-318.100" tilt="-9.720" height="100" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
+        <source url="media/2-1.png"/>
+      </image>
+      <image rotx="-33.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-34.430" tilt="-11.280" height="100" clickmode="0" rotz="0.000" id="자연" popbackmode="0">
+        <source url="media/image-30.png"/>
+      </image>
+      <image rotx="-32.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-34.790" tilt="-20.880" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
+        <source url="media/image-31.png"/>
       </image>
     </media>
     <transition enabled="1" softedge="0" zoomafteroutfov="40" zoomout="0" zoomspeed="2" zoomafterinfov="140" delay="none" zoomoutpause="1" blendcolor="0x000000" blendtime="1" zoomfov="40" zoomin="0" type="crossdissolve"/>
