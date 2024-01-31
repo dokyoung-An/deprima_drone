@@ -224,7 +224,7 @@
       <image rotx="-32.000" fov="7.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-34.790" tilt="-20.880" height="100" clickmode="0" rotz="-1.000" id="교육" popbackmode="0">
         <source url="media/image-31.png"/>
       </image>
-      <image rotx="-13.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-292.590" tilt="-10.290" height="100" clickmode="0" rotz="0.000" id="Element03" popbackmode="0">
+      <image rotx="-19.000" fov="5.000" width="100" handcursor="0" roty="0.000" hidepinned="0" stretch="1.000" pan="-293.240" tilt="-10.820" height="100" clickmode="0" rotz="0.000" id="Element03" popbackmode="0">
         <source url="media/image-32.png"/>
       </image>
     </media>
