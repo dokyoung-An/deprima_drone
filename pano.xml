@@ -9,7 +9,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="-3.29077" projection="4" fov="120.162" tilt="-31.5376"/>
+      <start pan="-2.07496" projection="4" fov="134.351" tilt="-37.5274"/>
       <flyin pan="0" projection="9" fov="170" tilt="-90"/>
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovstereographic="330" fov="140" fovfisheye="360" scaletofit="1" tilt="90"/>
@@ -18,7 +18,7 @@
     <hotspots width="180" smoothmovement="0" wordwrap="1" height="20">
       <label borderradius="1" width="180" enabled="1" textalpha="1" backgroundalpha="1" border="1" height="20" wordwrap="1" backgroundcolor="0xffffff" textcolor="0x000000" background="1" borderalpha="1" bordercolor="0x000000"/>
       <polystyle handcursor="1" borderalpha="1" mode="1" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-      <hotspot pan="-1.84" id="Point01" title="" skinid="대상지로고" url="" target="" tilt="-7.64" description="">
+      <hotspot pan="-2.02" id="Point01" title="" skinid="대상지로고" url="" target="" tilt="-3.83" description="">
         <custompropertyvalue value="false" variablename="vis_traffic"/>
       </hotspot>
     </hotspots>
