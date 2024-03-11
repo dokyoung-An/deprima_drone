@@ -1,264 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node17" apprev="20017" appversion="7.0.8">
+<tour start="node17" appversion="7.0.9" apprev="20024">
   <panorama id="node12">
-    <input height="3600" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0" width="3600" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
-      <level height="3600" width="3600" preload="0" predecode="0"/>
-      <level height="1800" width="1800" preload="0" predecode="0"/>
-      <level height="900" width="900" preload="0" predecode="0"/>
-      <level height="450" width="450" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="3600" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="3600" levelingroll="0">
+      <level width="3600" preload="0" predecode="0" height="3600"/>
+      <level width="1800" preload="0" predecode="0" height="1800"/>
+      <level width="900" preload="0" predecode="0" height="900"/>
+      <level width="450" preload="1" predecode="1" height="450"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="110.327" tilt="-8.13074" pan="3.51119" projection="4"/>
-      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <start fov="110.327" projection="4" tilt="-8.13074" pan="3.51119"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1"/>
+      <max fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata longitude="126.833968" title="저고도" info="" datetime="2024-01-27 오후 1:53" description="" author="" copyright="" source="" altitude="-28.56" customnodeid="" comment="" tags="저고도" latitude="35.204572" heading="0" nodeid="node12"/>
-    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
-      <label backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" wordwrap="1" borderradius="1" backgroundalpha="1" width="180" textalpha="1" borderalpha="1" border="1" enabled="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="1"/>
-      <hotspot url="" title="" tilt="4.86" skinid="대상지로고" pan="-358.51" target="_blank" id="Point01" description="">
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+    <userdata description="" copyright="" source="" heading="0" author="" altitude="-28.56" datetime="2024-01-27 오후 1:53" longitude="126.833968" latitude="35.204572" nodeid="node12" title="저고도" tags="저고도" info="" comment="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" border="1" borderradius="1" background="1" height="20" wordwrap="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle mode="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <hotspot description="" skinid="대상지로고" id="Point01" title="" target="_blank" url="" tilt="4.86" pan="-358.51">
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" fov="43.330" height="1408" clickmode="0" handcursor="0" pan="1.390" id="Element01" rotz="0.000" stretch="1.000" tilt="-12.900" hidepinned="0" roty="0.000" width="1824" rotx="27.000">
+      <image width="1824" handcursor="0" id="Element01" pan="1.390" rotx="27.000" height="1408" fov="43.330" roty="0.000" rotz="0.000" stretch="1.000" tilt="-12.900" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/ 5.png"/>
       </image>
     </media>
-    <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" blendtime="1" zoomfov="40" zoomin="0" delay="none" zoomafteroutfov="40" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1"/>
-    <autorotate noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" delay="50.00" speed="0.020" nodefilter="" horizonfromdefview="0" returntohorizon="0.000" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control lockedmouse="0" zoomcentercursor="1" invertcontrol="1" contextfullscreen="1" sensitivity="8" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+    <transition type="crossdissolve" zoomfov="40" enabled="1" zoomout="0" blendtime="1" delay="none" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0"/>
+    <autorotate enabled="1" noderandom="1" delay="50.00" startloaded="0" nodedelay="0.00" useanimation="0" returntohorizon="0.000" nodefilter="" speed="0.020" horizonfromdefview="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" contextvr="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="0" rubberband="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" zoomcentercursor="1" lockedwheel="0" dblclickfullscreen="0"/>
   </panorama>
   <panorama id="node17">
-    <input height="3600" leveltilesize="510" overlap="1" levelingroll="0" levelingpitch="0" width="3600" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400">
-      <level height="3600" width="3600" preload="0" predecode="0"/>
-      <level height="1800" width="1800" preload="0" predecode="0"/>
-      <level height="900" width="900" preload="0" predecode="0"/>
-      <level height="450" width="450" preload="1" predecode="1"/>
-      <preview strip="1" color="0x808080"/>
+    <input width="3600" leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelbiashidpi="1.000" levelingpitch="0" height="3600" levelingroll="0">
+      <level width="3600" preload="0" predecode="0" height="3600"/>
+      <level width="1800" preload="0" predecode="0" height="1800"/>
+      <level width="900" preload="0" predecode="0" height="900"/>
+      <level width="450" preload="1" predecode="1" height="450"/>
+      <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start fov="129.1" tilt="-33.4498" pan="1.59577" projection="4"/>
-      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <start fov="145.968" projection="4" tilt="-15.5811" pan="-0.833692"/>
+      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
-      <max fov="140" tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1"/>
+      <max fovstereographic="330" fov="140" fovfisheye="360" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata longitude="126.833592" title="고고도" info="" datetime="2024-01-27 오후 2:21" description="" author="" copyright="" source="" altitude="126.16" customnodeid="" comment="" tags="고고도" latitude="35.203675" heading="0" nodeid="node17"/>
-    <hotspots wordwrap="1" height="20" width="180" smoothmovement="0">
-      <label backgroundcolor="0xffffff" textcolor="0x000000" height="20" background="1" bordercolor="0x000000" wordwrap="1" borderradius="1" backgroundalpha="1" width="180" textalpha="1" borderalpha="1" border="1" enabled="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="1"/>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly01" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+    <userdata description="" copyright="" source="" heading="0" author="" altitude="126.16" datetime="2024-01-27 오후 2:21" longitude="126.833592" latitude="35.203675" nodeid="node17" title="고고도" tags="고고도" info="" comment="" customnodeid=""/>
+    <hotspots width="180" height="20" smoothmovement="0" wordwrap="1">
+      <label width="180" enabled="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" border="1" borderradius="1" background="1" height="20" wordwrap="1" bordercolor="0x000000" borderalpha="1" textcolor="0x000000"/>
+      <polystyle mode="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1"/>
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly01" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-161.35/-4.3|-159.74/-5.25|-156.92/-6.32|-155.17/-7.25|-154.49/-7.9|-154.01/-8.41|-153.83/-9|-153.65/-9.92|-153.88/-10.76|-154.43/-11.53|-155.75/-12.95|-157.58/-14.69|-161.06/-17.59|-164.82/-20.05|-168.64/-22.05|-177.16/-26.16|-185.51/-28.98|-198.02/-31.68|-219.02/-33.16|-245.52/-30.8|-258.99/-27.63|-245.1/-31.03|-186.16/-27.71|-273.72/-22.21|-276.2/-21.08|-274.72/-21.27|-273.99/-21.26|-272.66/-21.41|-270.54/-22.17|-267.35/-23.37|-257.04/-26.37|-241.79/-29.35|-214.46/-31.35|-190.32/-28.15|-183.24/-26.39|-175.58/-23.42|-169.97/-21.11|-160.84/-15.78|-157.6/-13.14|-155.5/-11.24|-155.07/-10.2|-154.88/-9.11|-154.96/-8.42|-155.32/-7.83|-156.11/-7.26|-157.52/-6.37|-158.85/-5.8|-160.06/-5.18</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly02" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly02" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-291.46/-1.23|-290.55/-1.35|-289.99/-1.47|-289.39/-1.7|-289.04/-1.86|-288.64/-2.05|-288.48/-2.29|-288.69/-2.64|-289.63/-2.99|-290.36/-3.02|-291.37/-3.17|-292.3/-3.32|-292.94/-3.36|-293.75/-3.47|-295.03/-3.61|-295.95/-3.79|-296.98/-3.97|-297.93/-4.11|-298.6/-4.26|-299.86/-4.54|-300.53/-4.79|-301.04/-4.97|-301.28/-5.12|-301.4/-5.54|-301.3/-5.7|-301.05/-5.9|-300.05/-6.4|-299.49/-6.69|-298.58/-7.07|-297.74/-7.5|-297.13/-7.87|-296.27/-8.26|-295.2/-8.73|-294.04/-9.21|-292.58/-9.9|-290.44/-10.89|-288.51/-11.96|-287.33/-12.64|-285.83/-13.36|-285.01/-14.03|-283.97/-14.66|-282.09/-15.74|-281.17/-16.02|-279.4/-16.86|-277.53/-17.89|-276.92/-18.04|-276.43/-18.22|-275.61/-18.06|-276.46/-17.64|-277.69/-17.15|-279.24/-16.4|-280.3/-15.88|-281.53/-15.39|-283.37/-14.49|-284.97/-13.53|-286.34/-12.85|-287.28/-12.14|-288.25/-11.5|-288.41/-11.13|-289.59/-10.62|-291.95/-9.67|-293.12/-9.07|-295.38/-8.28|-297.18/-7.43|-298.17/-6.89|-299.31/-6.42|-300.36/-5.92|-300.67/-5.49|-300.67/-5.1|-299.72/-4.77|-298.62/-4.49|-297.27/-4.24|-296.04/-3.99|-294.8/-3.85|-293.6/-3.7|-292.63/-3.55|-291.46/-3.41|-290.12/-3.18|-288.82/-3.03|-288.09/-2.8|-287.84/-2.44|-287.91/-2.17|-288.35/-1.86|-288.99/-1.55|-289.83/-1.35</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x6ac7b5" target="_blank" id="Poly03" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly03" title="" target="_blank" url="" bordercolor="0x6ac7b5" borderalpha="0">
         <polystring>-274.76/-17.81|-277.68/-16.48|-279.04/-15.85|-282.24/-14.56|-284.37/-13.4|-286.72/-12.27|-288.16/-11.17|-287.66/-11.88|-275.36/-17.97</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly04" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly04" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-274.1/-19.15|-271.31/-20.42|-269.83/-20.95|-267.29/-21.46|-265.46/-22.03|-263.32/-22.68|-261.42/-23.47|-258.43/-24.46|-256.45/-25.02|-254.73/-25.59|-252.53/-26.11|-250.98/-26.61|-247.87/-27.32|-246.28/-27.65|-242.73/-28.48|-232.56/-29.86|-229.35/-30.05|-226.15/-30.31|-205.34/-29.57|-197.4/-28.45|-189.66/-26.96|-186.4/-26.04|-184.22/-25.33|-180.11/-24.11|-176.66/-22.71|-174.09/-21.55|-170.3/-19.73|-166.96/-17.92|-163.05/-16.15|-161.65/-15.26|-160.35/-14.37|-159.66/-13.7|-159.02/-13.33|-158.31/-12.77|-157.86/-12.37|-157.33/-11.75|-156.84/-10.98|-156.17/-10.01|-156.11/-9|-156.25/-8.17|-156.95/-7.63|-158.23/-6.89|-159.21/-6.54|-160.56/-5.91|-161.82/-5.1|-162.55/-4.63|-162.84/-4.27|-162.91/-3.8|-162.98/-3.83|-163.07/-4.37|-162.63/-4.99|-161.94/-5.58|-161.01/-6.09|-160.26/-6.43|-159.74/-6.83|-158.76/-7.24|-157.93/-7.94|-157.51/-8.82|-157.61/-10.09|-158.48/-11.33|-160.1/-12.87|-161.97/-14.36|-164.21/-15.75|-166.42/-16.97|-169.46/-18.47|-173.69/-20.37|-177.26/-21.76|-180.46/-22.77|-184.96/-24.11|-191.81/-25.66|-194.12/-26.06|-194.94/-25.97|-211.36/-28.1|-230.1/-27.89|-249.42/-25.16|-256.17/-23.39|-262.99/-21.52|-271.65/-18.64</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly05" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly05" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-273.94/-17.81|-276.55/-16.8|-277.06/-16.7|-277.86/-16.17|-278.43/-15.64|-278.49/-14.83|-277.83/-14.12|-276.83/-13.78|-275.4/-13.43|-273.92/-13.18|-271.85/-12.96|-270.5/-12.91|-268.61/-13.1|-266.84/-13.38|-265.19/-13.65|-264.76/-13.83|-264.23/-14.11|-263.84/-14.4|-263.79/-14.97|-264.32/-15.58|-265.62/-16.41|-267.56/-17.18|-271.8/-18.1|-274.02/-18.73|-302.83/-22.53|-321.92/-22.18|-335.67/-20.12|-348.33/-16.58|-350.69/-15.61|-352.22/-15.13|-353.73/-14.27|-354.19/-13.95|-356.65/-12.64|-358.34/-11.6|-359.67/-10.8|-359.71/-10.73|-0.24/-10.4|-1.02/-9.92|-1.86/-9.29|-2.25/-8.78|-2.41/-8.32|-2.4/-7.93|-2.33/-7.55|-2.06/-7.15|-1.85/-6.97|-1.19/-6.46|-0.64/-6.03|-0.5/-5.84|-359.23/-4.95|-359.11/-4.83|-358.38/-3.82|-358.15/-3.49|-357.97/-3.31|-357.84/-3.09|-357.95/-2.92|-358.07/-2.76|-358.18/-2.66|-358.5/-2.57|-358.71/-2.54|-359.32/-2.56|-359.09/-2.5|-358.71/-2.41|-358.02/-2.46|-357.66/-2.61|-357.35/-2.89|-357.41/-3.2|-357.42/-3.42|-357.53/-3.58|-357.85/-3.92|-358.18/-4.33|-358.94/-5.18|-359.46/-5.64|-359.93/-6.45|-0.48/-7.27|-0.39/-7.61|-0.45/-7.97|-0.54/-8.64|-0.19/-9.32|-359.37/-10.08|-359.26/-10.56|-357.94/-11.37|-357.2/-11.84|-355.48/-12.73|-355.25/-12.89|-353.08/-13.93|-349.74/-15.16|-345.31/-16.63|-339.82/-17.92|-333.43/-19.01|-319.09/-20.95|-298.22/-21.48|-281.07/-19.4|-273.16/-17.9|-268.43/-16.91|-266.4/-16|-265.46/-15.09|-265.36/-14.79|-265.69/-14.34|-266.67/-13.86|-268.39/-13.45|-269.21/-13.33|-270.62/-13.26|-272.29/-13.25|-273.17/-13.37|-274.37/-13.46|-275.68/-13.81|-277.14/-14.33|-277.77/-15.16|-277.71/-15.89|-273.53/-17.78</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly06" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly06" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-291.09/-23.07|-291.43/-23.07|-291.95/-23.29|-292.72/-23.5|-293.67/-23.81|-294.82/-24.01|-296.46/-24.33|-297.09/-24.4|-298.06/-24.5|-299.34/-24.62|-300.88/-24.67|-303.02/-24.61|-305.28/-24.55|-308.44/-24.35|-311.33/-24.05|-313.83/-23.77|-317.1/-23.29|-319.72/-22.93|-322.75/-22.52|-329.16/-21.45|-332.48/-20.9|-334.5/-20.4|-334.1/-20.43|-329.15/-21.25|-322.68/-22.14|-319.61/-22.61|-317.14/-22.89|-313.8/-23.28|-311.29/-23.5|-308.47/-23.73|-302.24/-24.18|-299.06/-24.09|-294.39/-23.51|-293.1/-23.12|-292.89/-23.1|-292.79/-22.96|-291.84/-22.57|-291.62/-22.6|-291.45/-22.58|-291.23/-22.69|-291.06/-22.93</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly07" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly07" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-285.75/-13.78|-284.84/-14.3|-283.98/-14.82|-283.65/-14.94|-283.29/-15.28|-283.14/-16.06|-283.22/-16.37|-283.83/-17.02|-285.67/-18.01|-288.91/-19.23|-289.92/-19.6|-292.75/-20.38|-297.8/-21.21|-299.14/-21.41|-307.5/-21.52|-309.79/-21.4|-306.65/-21.32|-302.58/-21.26|-299.39/-21.06|-295.62/-20.51|-293.28/-20.05|-290.65/-19.36|-288.52/-18.76|-286.98/-18.18|-285.82/-17.63|-284.74/-17|-284.52/-16.71|-284.26/-16.4|-284.11/-15.94|-284.08/-15.51|-284.27/-15.07|-284.77/-14.63|-285.4/-14.24|-285.81/-13.95</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly08" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly08" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-287.49/-13.96|-284.24/-15.93|-284.36/-16.17|-284.71/-16.49|-284.94/-16.59|-287.48/-14.87</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x6ac7b5" target="_blank" id="Poly09" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly09" title="" target="_blank" url="" bordercolor="0x6ac7b5" borderalpha="0">
         <polystring>-260.58/-4.08|-259.2/-5.06|-257.94/-5.62|-256.81/-6.11|-254.98/-7.04|-253.27/-8|-252.53/-8.5|-251.99/-8.96|-251.77/-9.2|-251.73/-9.47|-251.85/-9.67|-252.35/-9.97|-253.13/-10.23|-253.94/-10.42|-255.92/-11.08|-257.75/-11.65|-259.76/-12.39|-259.9/-12.48|-260.22/-12.59|-262.21/-13.13|-264.66/-13.83|-264.66/-13.86|-264.51/-13.9|-264.16/-14.05|-263.8/-14.22|-262.01/-13.74|-258.33/-12.39|-255.61/-11.33|-252.78/-10.47|-251.81/-10.01|-251.35/-9.6|-251.1/-9.33|-250.98/-8.99|-251.1/-8.74|-251.3/-8.63|-252.21/-8.15|-253.41/-7.53|-255.06/-6.59|-255.99/-6.12|-257.62/-5.29|-259.93/-4.11|-260.95/-3.57</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x6ac7b5" target="_blank" id="Poly10" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly10" title="" target="_blank" url="" bordercolor="0x6ac7b5" borderalpha="0">
         <polystring>-266.06/-14.93|-268.46/-15.7|-272.24/-16.76|-274.48/-17.35|-274.79/-17.23|-275.91/-16.67|-274.13/-16.24|-272/-15.78|-266.65/-14.34|-266.58/-14.35|-266.45/-14.4|-266.29/-14.47|-266.21/-14.51|-266.09/-14.56|-266.03/-14.6|-266.03/-14.73</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly11" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly11" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-244.74/-31.11|-241.58/-31.74|-242.09/-32.17|-243.1/-32.26|-243.39/-32.81|-243.75/-33.55|-244.59/-35.05|-245.57/-36.51|-246.52/-37.41|-246.93/-35.81|-247.27/-36.25|-261.5/-43.25|-262.4/-43.48|-267.37/-43.72|-271.52/-43.57|-287.33/-42.07|-290.07/-42.3|-291/-41.32|-292.78/-42.24|-294.26/-43.79|-300.53/-49.36|-303.65/-50.92|-308.01/-53.01|-310.97/-54.71|-316.37/-57.09|-320.77/-59.05|-322.94/-60.28|-324.24/-61.23|-325.74/-62.41|-327.28/-63.77|-328.44/-65.85|-329.22/-66.81|-329.5/-69.89|-327.37/-72.53|-325.44/-74.07|-313.61/-79.83|-289.27/-83.03|-267.23/-83.55|-234.35/-82.28|-211.11/-78.55|-194.66/-63.96|-193.19/-61.52|-196.62/-61.11|-208.32/-71.48|-214.02/-75.44|-258.18/-81.24|-300.52/-79.32|-316.96/-73.94|-321.37/-70.99|-323.84/-68.11|-323.72/-66.31|-323.37/-65.76|-322.72/-64.84|-321.52/-63.08|-318.47/-61.05|-307.48/-55.09|-299.56/-50.76|-294.43/-46.6|-291.93/-43.81|-289.73/-43.21|-287.41/-43.06|-283.67/-43.46|-277.85/-44.48|-270.47/-44.91|-266.2/-44.73|-261.07/-44.34|-252.1/-40.63|-246.6/-37.54|-246.93/-35.87|-246.5/-35.06</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly12" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly12" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-266.2/-44.73|-267.27/-45.72|-267.84/-58.41|-268.81/-78.8|-269.53/-80.08|-260.99/-81.44|-290.33/-80.27|-280.49/-79.39|-271.48/-62.05|-269.67/-49.25|-269.47/-44.71</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly13" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly13" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-280.06/-44.36|-281.16/-44.99|-282.41/-46.92|-284.64/-51.11|-290.51/-58.41|-306.23/-68.63|-316.09/-72.04|-318.38/-73.16|-322.61/-69.38|-323.16/-68.04|-322.51/-68.75|-320.36/-69.57|-315.54/-69.23|-303.95/-64.46|-292.64/-56.53|-285.5/-48.16|-283.02/-44.17|-283.45/-43.57|-281.51/-44</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly14" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly14" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-178.06/-26.54|-180.55/-30.3|-182.1/-32.84|-183.96/-37.18|-184.51/-38.58|-185.37/-39.8|-186.44/-42.66|-187.36/-45.44|-193.1/-61.41|-196.26/-61.08|-189.7/-47.25|-186.21/-38.84|-185.62/-37.73|-185.25/-36.81|-183.67/-33.73|-181.93/-30.31|-181.4/-28.83|-180.48/-28.4|-181.01/-27.61</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly15" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly15" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-349.43/-16.25|-352.29/-17.11|-355.68/-18.57|-0.35/-20.18|-7.53/-21.52|-15.66/-22.91|-23.13/-23.4|-26.21/-23.49|-29.11/-23.42|-34.53/-23.06|-43.37/-21.61|-49.75/-20.21|-54.2/-18.79|-58.75/-17.22|-61.41/-16.39|-64.57/-15.46|-66.56/-15.06|-69.38/-14.35|-72.44/-13.61|-75.3/-13.06|-78.41/-12.24|-79.01/-11.9|-79.56/-11.57|-80.14/-11.18|-80.34/-10.88|-80.76/-10.46|-81.67/-8.96|-82.88/-7.05|-83.69/-5.28|-84.56/-3.86|-84.92/-3.09|-84.57/-3.15|-84.01/-4.4|-83.7/-4.77|-83.26/-5.25|-82.82/-6.11|-82.18/-6.92|-81.03/-8.77|-80.16/-9.81|-79.41/-10.91|-78.67/-11.49|-76.57/-12.19|-73.06/-13.08|-68.56/-14.08|-64.93/-14.85|-58.94/-16.23|-53.23/-18.27|-46.57/-20.02|-35.49/-22.01|-28.19/-22.48|-25.97/-22.51|-18.76/-22.13|-2.57/-18.74|-354.97/-16.14|-351.65/-15.51|-351.41/-15.44|-349.2/-16.14</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly16" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly16" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-21.36/-11.82|-22.71/-12.12|-23.8/-12.42|-27.55/-12.79|-33.09/-13.91|-38.57/-16.05|-44.21/-18.57|-44.66/-18.76|-46.07/-19.61|-46.44/-19.92|-50.03/-19.14|-43.79/-16.78|-37.62/-14.6|-33.03/-13.28|-26.22/-12.07|-22.7/-11.56|-21.65/-11.52</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly17" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly17" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-77.49/-10.02|-79.96/-10|-83.01/-10.01|-83.58/-10.01|-84.6/-9.94|-86.8/-10.03|-88.83/-10.18|-90.09/-10.2|-91.09/-10.29|-92.96/-10.36|-95.98/-10.58|-97.83/-10.73|-100.6/-10.92|-109.07/-11.55|-111.9/-11.72|-115.54/-11.86|-120.45/-12.01|-125.3/-12.08|-127.02/-12.03|-129.7/-11.98|-131.55/-11.95|-133.66/-11.93|-136.47/-11.94|-140.09/-11.74|-140.97/-11.72|-149.86/-11.09|-153.15/-10.77|-153.77/-10.76|-153.74/-10.59|-148.01/-10.97|-141.82/-11.41|-139.29/-11.55|-138.85/-11.56|-135.22/-11.64|-132.17/-11.65|-126.05/-11.76|-124.76/-11.82|-124.43/-11.77|-118.67/-11.65|-110.97/-11.45|-106.4/-11.19|-103.64/-10.94|-99.01/-10.56|-95.71/-10.34|-92.41/-10.07|-89.61/-9.9|-87.48/-9.76|-84.29/-9.68|-81.78/-9.74|-81.23/-9.74|-78.04/-9.84|-77.49/-9.79</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly18" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly18" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-158.03/-10.47|-162.7/-10.19|-162.9/-10.22|-162.99/-10.2|-174.2/-9.09|-185.81/-7.7|-192.28/-7.17|-195.4/-6.91|-202.72/-6.5|-202.37/-6.39|-195.45/-6.74|-192.26/-7|-186.57/-7.47|-185.53/-7.58|-179.95/-8.24|-174.18/-8.94|-167.43/-9.54|-160.96/-10.11|-159.1/-10.2|-158.02/-10.29|-157.85/-10.31</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot backgroundcolor="0x6ac7b5" title="" bordercolor="0x0000ff" target="_blank" id="Poly19" description="" backgroundalpha="0.25098" borderalpha="0" url="">
+      <polyhotspot description="" backgroundcolor="0x6ac7b5" backgroundalpha="0.25098" id="Poly19" title="" target="_blank" url="" bordercolor="0x0000ff" borderalpha="0">
         <polystring>-173.08/-7.9|-175.17/-8.15|-177.35/-8.39|-179.95/-8.88|-182.42/-9.36|-186.87/-10.18|-190.43/-10.83|-195.64/-11.57|-197.71/-12.03|-198.32/-12.19|-199.75/-12.9|-200.52/-13.27|-202.68/-14.38|-204.05/-15.16|-204.57/-15.72|-204.91/-16.2|-204.93/-16.52|-205.22/-17.23|-205.03/-17.84|-204.16/-19.15|-202.1/-20.91|-199.93/-22.69|-199.32/-23.12|-201.89/-23.39|-202.92/-22.27|-206.39/-18.38|-207.03/-17.26|-207.06/-16.76|-206.36/-16.15|-204.15/-15.04|-201.05/-13.16|-200.02/-12.58|-199.01/-12.11|-197.78/-11.71|-195.8/-11.31|-190.68/-10.47|-187.02/-9.86|-182.43/-9.11|-180.14/-8.71|-177.53/-8.24|-175.18/-8</polystring>
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <hotspot url="" title="" tilt="-48.26" skinid="대상지로고" pan="-717.42" target="_blank" id="Point01" description="">
-        <custompropertyvalue value="false" variablename="vis_traffic"/>
+      <hotspot description="" skinid="대상지로고" id="Point01" title="" target="_blank" url="" tilt="-48.26" pan="-717.42">
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
     </hotspots>
     <media>
-      <image popbackmode="0" fov="8.000" height="307" clickmode="0" handcursor="0" pan="-360.000" id="생활" rotz="1.000" stretch="1.000" tilt="-10.270" hidepinned="0" roty="0.000" width="307" rotx="-7.000">
+      <image width="307" handcursor="0" id="생활" pan="-360.000" rotx="-7.000" height="307" fov="8.000" roty="0.000" rotz="1.000" stretch="1.000" tilt="-10.270" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/kS.png"/>
       </image>
-      <image popbackmode="0" fov="8.000" height="100" clickmode="0" handcursor="0" pan="-20.300" id="자연" rotz="0.000" stretch="1.000" tilt="-7.870" hidepinned="0" roty="0.000" width="100" rotx="0.000">
+      <image width="100" handcursor="0" id="자연" pan="-20.300" rotx="0.000" height="100" fov="8.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-7.870" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/ .png"/>
       </image>
-      <image popbackmode="0" fov="7.000" height="100" clickmode="0" handcursor="0" pan="-29.570" id="교육" rotz="0.000" stretch="1.000" tilt="-7.170" hidepinned="0" roty="0.000" width="100" rotx="0.000">
+      <image width="100" handcursor="0" id="교육" pan="-29.570" rotx="0.000" height="100" fov="7.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-7.170" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-1.png"/>
       </image>
-      <image popbackmode="0" fov="11.000" height="100" clickmode="0" handcursor="0" pan="-50.140" id="교육" rotz="0.000" stretch="1.000" tilt="-6.440" hidepinned="0" roty="0.000" width="100" rotx="-20.000">
+      <image width="100" handcursor="0" id="교육" pan="-50.140" rotx="-20.000" height="100" fov="11.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-6.440" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-2.png"/>
       </image>
-      <image popbackmode="0" fov="8.000" height="100" clickmode="0" handcursor="0" pan="-45.180" id="교육" rotz="0.000" stretch="1.000" tilt="-8.530" hidepinned="0" roty="0.000" width="100" rotx="-19.000">
+      <image width="100" handcursor="0" id="교육" pan="-45.180" rotx="-19.000" height="100" fov="8.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-8.530" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-3.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-39.750" id="생활" rotz="0.000" stretch="1.000" tilt="-7.170" hidepinned="0" roty="0.000" width="100" rotx="-17.000">
+      <image width="100" handcursor="0" id="생활" pan="-39.750" rotx="-17.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-7.170" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-4.png"/>
       </image>
-      <image popbackmode="0" fov="7.000" height="100" clickmode="0" handcursor="0" pan="-34.730" id="생활" rotz="0.000" stretch="1.000" tilt="-2.310" hidepinned="0" roty="0.000" width="100" rotx="0.000">
+      <image width="100" handcursor="0" id="생활" pan="-34.730" rotx="0.000" height="100" fov="7.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-2.310" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-6.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-45.000" id="자연" rotz="0.000" stretch="1.000" tilt="0.110" hidepinned="0" roty="0.000" width="100" rotx="-13.000">
+      <image width="100" handcursor="0" id="자연" pan="-45.000" rotx="-13.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="0.110" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-7.png"/>
       </image>
-      <image popbackmode="0" fov="11.000" height="300" clickmode="0" handcursor="0" pan="-61.340" id="생활" rotz="0.000" stretch="1.000" tilt="-6.460" hidepinned="0" roty="0.000" width="400" rotx="-7.000">
+      <image width="400" handcursor="0" id="생활" pan="-61.340" rotx="-7.000" height="300" fov="11.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-6.460" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-8.png"/>
       </image>
-      <image popbackmode="0" fov="12.000" height="300" clickmode="0" handcursor="0" pan="-54.770" id="자연" rotz="0.000" stretch="1.000" tilt="-12.930" hidepinned="0" roty="0.000" width="368" rotx="-5.000">
+      <image width="368" handcursor="0" id="자연" pan="-54.770" rotx="-5.000" height="300" fov="12.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-12.930" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-9.png"/>
       </image>
-      <image popbackmode="0" fov="12.000" height="100" clickmode="0" handcursor="0" pan="-71.870" id="자연" rotz="-4.000" stretch="1.000" tilt="-12.080" hidepinned="0" roty="0.000" width="100" rotx="-26.000">
+      <image width="100" handcursor="0" id="자연" pan="-71.870" rotx="-26.000" height="100" fov="12.000" roty="0.000" rotz="-4.000" stretch="1.000" tilt="-12.080" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/1.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-52.950" id="자연" rotz="0.000" stretch="1.000" tilt="3.660" hidepinned="0" roty="0.000" width="100" rotx="-5.000">
+      <image width="100" handcursor="0" id="자연" pan="-52.930" rotx="-5.000" height="100" fov="10.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="3.790" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-10.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-64.130" id="생활" rotz="0.000" stretch="1.000" tilt="3.000" hidepinned="0" roty="0.000" width="100" rotx="0.000">
+      <image width="100" handcursor="0" id="생활" pan="-64.130" rotx="0.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="3.000" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/CC.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-318.870" id="교육" rotz="0.000" stretch="1.000" tilt="-0.500" hidepinned="0" roty="0.000" width="100" rotx="-6.000">
+      <image width="100" handcursor="0" id="교육" pan="-318.870" rotx="-6.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-0.500" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-11.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-350.110" id="자연" rotz="0.000" stretch="1.000" tilt="1.030" hidepinned="0" roty="0.000" width="100" rotx="-7.000">
+      <image width="100" handcursor="0" id="자연" pan="-350.110" rotx="-7.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="1.030" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-13.png"/>
       </image>
-      <image popbackmode="0" fov="12.000" height="100" clickmode="0" handcursor="0" pan="-270.490" id="자연" rotz="0.000" stretch="1.000" tilt="-1.830" hidepinned="0" roty="0.000" width="100" rotx="-23.000">
+      <image width="100" handcursor="0" id="자연" pan="-270.490" rotx="-23.000" height="100" fov="10.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-1.830" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-14.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-332.410" id="교육" rotz="-1.000" stretch="1.000" tilt="-3.830" hidepinned="0" roty="0.000" width="100" rotx="-10.000">
+      <image width="100" handcursor="0" id="교육" pan="-332.410" rotx="-10.000" height="100" fov="9.000" roty="0.000" rotz="-1.000" stretch="1.000" tilt="-3.830" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-15.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-341.610" id="교육" rotz="-1.000" stretch="1.000" tilt="-5.410" hidepinned="0" roty="0.000" width="100" rotx="-4.000">
+      <image width="100" handcursor="0" id="교육" pan="-341.610" rotx="-4.000" height="100" fov="9.000" roty="0.000" rotz="-1.000" stretch="1.000" tilt="-5.410" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-17.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-313.190" id="교육" rotz="0.000" stretch="1.000" tilt="-4.700" hidepinned="0" roty="0.000" width="100" rotx="-11.000">
+      <image width="100" handcursor="0" id="교육" pan="-313.190" rotx="-11.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-4.700" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-16.png"/>
       </image>
-      <image popbackmode="0" fov="8.000" height="100" clickmode="0" handcursor="0" pan="-324.000" id="교육" rotz="0.000" stretch="1.000" tilt="-4.390" hidepinned="0" roty="0.000" width="100" rotx="-8.000">
+      <image width="100" handcursor="0" id="교육" pan="-324.000" rotx="-8.000" height="100" fov="8.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-4.390" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-12.png"/>
       </image>
-      <image popbackmode="0" fov="7.000" height="100" clickmode="0" handcursor="0" pan="-5.240" id="자연" rotz="0.000" stretch="1.000" tilt="-4.520" hidepinned="0" roty="0.000" width="100" rotx="-18.000">
+      <image width="100" handcursor="0" id="자연" pan="-5.240" rotx="-18.000" height="100" fov="7.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-4.520" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/1-1.png"/>
       </image>
-      <image popbackmode="0" fov="11.000" height="100" clickmode="0" handcursor="0" pan="-223.640" id="교육" rotz="0.000" stretch="1.000" tilt="-14.980" hidepinned="0" roty="0.000" width="100" rotx="-28.000">
+      <image width="100" handcursor="0" id="교육" pan="-223.640" rotx="-28.000" height="100" fov="11.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-14.980" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-18.png"/>
       </image>
-      <image popbackmode="0" fov="13.000" height="100" clickmode="0" handcursor="0" pan="-230.790" id="교육" rotz="0.000" stretch="1.000" tilt="-6.760" hidepinned="0" roty="0.000" width="100" rotx="-25.000">
+      <image width="100" handcursor="0" id="교육" pan="-230.790" rotx="-25.000" height="100" fov="11.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-6.760" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-19.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-206.980" id="교육" rotz="-1.000" stretch="1.000" tilt="-7.490" hidepinned="0" roty="0.000" width="100" rotx="-27.000">
+      <image width="100" handcursor="0" id="교육" pan="-206.980" rotx="-27.000" height="100" fov="10.000" roty="0.000" rotz="-1.000" stretch="1.000" tilt="-7.490" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-20.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-211.980" id="교육" rotz="-2.000" stretch="1.000" tilt="-13.440" hidepinned="0" roty="-4.000" width="100" rotx="-28.000">
+      <image width="100" handcursor="0" id="교육" pan="-211.980" rotx="-28.000" height="100" fov="10.000" roty="-4.000" rotz="-2.000" stretch="1.000" tilt="-13.440" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-21.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-218.820" id="자연" rotz="0.000" stretch="1.000" tilt="-4.850" hidepinned="0" roty="0.000" width="100" rotx="-19.000">
+      <image width="100" handcursor="0" id="자연" pan="-218.820" rotx="-19.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-4.850" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-22.png"/>
       </image>
-      <image popbackmode="0" fov="11.000" height="100" clickmode="0" handcursor="0" pan="-189.360" id="자연" rotz="0.000" stretch="1.000" tilt="5.620" hidepinned="0" roty="0.000" width="100" rotx="-6.000">
+      <image width="100" handcursor="0" id="자연" pan="-189.360" rotx="-6.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="5.620" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-23.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-169.610" id="자연" rotz="0.000" stretch="1.000" tilt="3.070" hidepinned="0" roty="0.000" width="100" rotx="-17.000">
+      <image width="100" handcursor="0" id="자연" pan="-169.610" rotx="-17.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="3.070" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-24.png"/>
       </image>
-      <image popbackmode="0" fov="9.000" height="100" clickmode="0" handcursor="0" pan="-187.960" id="교육" rotz="0.000" stretch="1.000" tilt="-9.360" hidepinned="0" roty="0.000" width="100" rotx="-23.000">
+      <image width="100" handcursor="0" id="교육" pan="-187.960" rotx="-23.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-9.360" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-25.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-182.620" id="교육" rotz="0.000" stretch="1.000" tilt="-6.090" hidepinned="0" roty="0.000" width="100" rotx="-17.000">
+      <image width="100" handcursor="0" id="교육" pan="-182.620" rotx="-17.000" height="100" fov="10.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-6.090" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-26.png"/>
       </image>
-      <image popbackmode="0" fov="11.000" height="100" clickmode="0" handcursor="0" pan="-126.510" id="자연" rotz="-1.000" stretch="1.000" tilt="-6.150" hidepinned="0" roty="0.000" width="100" rotx="-22.000">
+      <image width="100" handcursor="0" id="자연" pan="-126.510" rotx="-22.000" height="100" fov="11.000" roty="0.000" rotz="-1.000" stretch="1.000" tilt="-6.150" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/2.png"/>
       </image>
-      <image popbackmode="0" fov="7.000" height="100" clickmode="0" handcursor="0" pan="-97.850" id="생활" rotz="2.000" stretch="1.000" tilt="-7.410" hidepinned="0" roty="0.000" width="100" rotx="-17.000">
+      <image width="100" handcursor="0" id="생활" pan="-97.850" rotx="-17.000" height="100" fov="7.000" roty="0.000" rotz="2.000" stretch="1.000" tilt="-7.410" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-27.png"/>
       </image>
-      <image popbackmode="0" fov="8.000" height="100" clickmode="0" handcursor="0" pan="-140.520" id="생활" rotz="0.000" stretch="1.000" tilt="-4.290" hidepinned="0" roty="0.000" width="100" rotx="-14.000">
+      <image width="100" handcursor="0" id="생활" pan="-140.520" rotx="-14.000" height="100" fov="8.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-4.290" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-28.png"/>
       </image>
-      <image popbackmode="0" fov="13.000" height="307" clickmode="0" handcursor="0" pan="-287.000" id="교통" rotz="0.000" stretch="1.000" tilt="-6.930" hidepinned="0" roty="0.000" width="341" rotx="-17.000">
+      <image width="341" handcursor="0" id="교통" pan="-287.000" rotx="-17.000" height="307" fov="10.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-6.930" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-29.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="0.480" id="교통" rotz="1.000" stretch="1.000" tilt="-1.080" hidepinned="0" roty="0.000" width="100" rotx="-1.000">
+      <image width="100" handcursor="0" id="교통" pan="0.480" rotx="-1.000" height="100" fov="10.000" roty="0.000" rotz="1.000" stretch="1.000" tilt="-1.080" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-30.png"/>
       </image>
-      <image popbackmode="0" fov="15.000" height="312" clickmode="0" handcursor="0" pan="-346.530" id="생활" rotz="0.000" stretch="1.000" tilt="-12.250" hidepinned="0" roty="0.000" width="400" rotx="-24.000">
+      <image width="400" handcursor="0" id="생활" pan="-346.530" rotx="-24.000" height="312" fov="13.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="-12.250" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image.png"/>
       </image>
-      <image popbackmode="0" fov="10.000" height="100" clickmode="0" handcursor="0" pan="-24.220" id="생활" rotz="0.000" stretch="1.000" tilt="0.350" hidepinned="0" roty="0.000" width="100" rotx="-17.000">
+      <image width="100" handcursor="0" id="생활" pan="-24.220" rotx="-17.000" height="100" fov="9.000" roty="0.000" rotz="0.000" stretch="1.000" tilt="0.350" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-5.png"/>
       </image>
-      <image popbackmode="0" fov="32.150" height="1328" clickmode="0" handcursor="0" pan="3.760" id="Element03" rotz="0.000" stretch="1.000" tilt="-61.620" hidepinned="0" roty="0.000" width="1328" rotx="26.000">
+      <image width="1328" handcursor="0" id="Element03" pan="3.760" rotx="26.000" height="1328" fov="32.150" roty="0.000" rotz="0.000" stretch="1.000" tilt="-61.620" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/ 6.png"/>
       </image>
-      <image popbackmode="0" fov="12.000" height="307" clickmode="0" handcursor="0" pan="-155.990" id="교통" rotz="-3.000" stretch="1.000" tilt="-2.180" hidepinned="0" roty="-2.000" width="341" rotx="-20.000">
+      <image width="341" handcursor="0" id="교통" pan="-155.990" rotx="-20.000" height="307" fov="12.000" roty="-2.000" rotz="-3.000" stretch="1.000" tilt="-2.180" clickmode="0" popbackmode="0" hidepinned="0">
         <source url="media/image-29.png"/>
       </image>
     </media>
-    <transition zoomafterinfov="140" type="crossdissolve" zoomspeed="2" blendtime="1" zoomfov="40" zoomin="0" delay="none" zoomafteroutfov="40" zoomout="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" enabled="1"/>
-    <autorotate noderandom="1" nodedelay="0.00" startloaded="0" useanimation="0" delay="50.00" speed="0.020" nodefilter="" horizonfromdefview="0" returntohorizon="0.000" enabled="1"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
-    <control lockedmouse="0" zoomcentercursor="1" invertcontrol="1" contextfullscreen="1" sensitivity="8" rubberband="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextvr="1" hideabout="0" invertwheel="0" contextprojections="0" lockedkeyboard="0" speedwheel="1"/>
+    <transition type="crossdissolve" zoomfov="40" enabled="1" zoomout="0" blendtime="1" delay="none" zoomspeed="2" blendcolor="0x000000" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomin="0"/>
+    <autorotate enabled="1" noderandom="1" delay="50.00" startloaded="0" nodedelay="0.00" useanimation="0" returntohorizon="0.000" nodefilter="" speed="0.020" horizonfromdefview="0"/>
+    <animation clipsrandom="0" useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" speedwheel="1" contextvr="1" lockedkeyboard="0" contextfullscreen="1" invertcontrol="1" contextprojections="0" hideabout="0" rubberband="0" invertwheel="0" lockedkeyboardzoom="0" sensitivity="8" simulatemass="1" zoomcentercursor="1" lockedwheel="0" dblclickfullscreen="0"/>
   </panorama>
   <masternode>
-    <userdata title="" author="" copyright="" comment="" tags="" description=""/>
+    <userdata description="" title="" tags="" copyright="" author="" comment=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <customproperty propertytype="1" variabletype="2" defaultvalue="false" variablename="vis_traffic"/>
+  <customproperty variablename="vis_traffic" defaultvalue="false" propertytype="1" variabletype="2"/>
 </tour>
