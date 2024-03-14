@@ -1,246 +1,246 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour start="node17" appversion="7.0.9" apprev="20024">
   <panorama id="node12">
-    <input overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="3600" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3600" leveltilesize="510">
-      <level width="3600" predecode="0" preload="0" height="3600"/>
-      <level width="1800" predecode="0" preload="0" height="1800"/>
-      <level width="900" predecode="0" preload="0" height="900"/>
-      <level width="450" predecode="1" preload="1" height="450"/>
+    <input levelingpitch="0" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3600" width="3600" levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400">
+      <level width="3600" preload="0" predecode="0" height="3600"/>
+      <level width="1800" preload="0" predecode="0" height="1800"/>
+      <level width="900" preload="0" predecode="0" height="900"/>
+      <level width="450" preload="1" predecode="1" height="450"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="3.51119" projection="4" fov="110.327" tilt="-8.13074"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+      <start projection="4" fov="110.327" tilt="-8.13074" pan="3.51119"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" pan="360"/>
     </view>
-    <userdata latitude="35.204572" source="" description="" longitude="126.833968" copyright="" info="" customnodeid="" comment="" nodeid="node12" title="저고도" tags="저고도" author="" datetime="2024-01-27 오후 1:53" altitude="-28.56" heading="0"/>
-    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
-      <label textalpha="1" border="1" height="20" background="1" borderalpha="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" width="180" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="1" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <hotspot pan="-358.51" description="" id="Point01" skinid="대상지로고" title="" url="" target="_blank" tilt="4.86">
+    <userdata tags="저고도" info="" comment="" heading="0" customnodeid="" latitude="35.204572" description="" title="저고도" author="" longitude="126.833968" copyright="" datetime="2024-01-27 오후 1:53" source="" altitude="-28.56" nodeid="node12"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" border="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundalpha="1" height="20" width="180" wordwrap="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="1"/>
+      <hotspot title="" skinid="대상지로고" url="" tilt="4.86" target="_blank" description="" pan="-358.51" id="Point01">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
     </hotspots>
     <media>
-      <image handcursor="0" id="Element01" rotx="27.000" stretch="1.000" height="1408" tilt="-12.900" pan="1.390" clickmode="0" width="1824" hidepinned="0" rotz="0.000" fov="43.330" popbackmode="0" roty="0.000">
+      <image roty="0.000" hidepinned="0" fov="43.330" rotz="0.000" handcursor="0" popbackmode="0" clickmode="0" height="1408" width="1824" stretch="1.000" tilt="-12.900" rotx="27.000" pan="1.390" id="Element01">
         <source url="media/ 7.png"/>
       </image>
     </media>
-    <transition zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="1" zoomafterinfov="140" blendcolor="0x000000" enabled="1" delay="none" zoomspeed="2" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomin="0"/>
-    <autorotate speed="0.020" nodefilter="" returntohorizon="0.000" noderandom="1" enabled="1" delay="50.00" startloaded="0" useanimation="0" horizonfromdefview="0" nodedelay="0.00"/>
-    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextvr="1" hideabout="0"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomafteroutfov="40" delay="none" enabled="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" noderandom="1" nodedelay="0.00" speed="0.020" enabled="1" delay="50.00" nodefilter="" horizonfromdefview="0" startloaded="0"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" contextvr="1" hideabout="0" invertcontrol="1" invertwheel="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1"/>
   </panorama>
   <panorama id="node17">
-    <input overlap="1" levelbiashidpi="1.000" levelbias="0.400" height="3600" levelingpitch="0" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3600" leveltilesize="510">
-      <level width="3600" predecode="0" preload="0" height="3600"/>
-      <level width="1800" predecode="0" preload="0" height="1800"/>
-      <level width="900" predecode="0" preload="0" height="900"/>
-      <level width="450" predecode="1" preload="1" height="450"/>
+    <input levelingpitch="0" levelingroll="0" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="3600" width="3600" levelbiashidpi="1.000" overlap="1" leveltilesize="510" levelbias="0.400">
+      <level width="3600" preload="0" predecode="0" height="3600"/>
+      <level width="1800" preload="0" predecode="0" height="1800"/>
+      <level width="900" preload="0" predecode="0" height="900"/>
+      <level width="450" preload="1" predecode="1" height="450"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="2">
-      <start pan="3.8" projection="4" fov="157.899" tilt="-31.8"/>
-      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" fov="140" tilt="90"/>
+      <start projection="4" fov="157.899" tilt="-31.8" pan="3.8"/>
+      <flyin projection="9" fov="170" tilt="-90" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" scaletofit="1" fov="140" tilt="90" fovstereographic="330" pan="360"/>
     </view>
-    <userdata latitude="35.203675" source="" description="" longitude="126.833592" copyright="" info="" customnodeid="" comment="" nodeid="node17" title="고고도" tags="고고도" author="" datetime="2024-01-27 오후 2:21" altitude="126.16" heading="0"/>
-    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
-      <label textalpha="1" border="1" height="20" background="1" borderalpha="1" bordercolor="0x000000" enabled="1" backgroundalpha="1" width="180" textcolor="0x000000" borderradius="1" wordwrap="1" backgroundcolor="0xffffff"/>
-      <polystyle handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="1" backgroundcolor="0x0000ff" borderalpha="1"/>
-      <polyhotspot description="" id="Poly07" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.25098" title="" backgroundcolor="0x6ac7b5" target="_blank">
+    <userdata tags="고고도" info="" comment="" heading="0" customnodeid="" latitude="35.203675" description="" title="고고도" author="" longitude="126.833592" copyright="" datetime="2024-01-27 오후 2:21" source="" altitude="126.16" nodeid="node17"/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" background="1" borderalpha="1" border="1" textcolor="0x000000" borderradius="1" textalpha="1" backgroundalpha="1" height="20" width="180" wordwrap="1" enabled="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="1"/>
+      <polyhotspot backgroundcolor="0x6ac7b5" borderalpha="0" target="_blank" backgroundalpha="0.25098" description="" title="" url="" bordercolor="0x0000ff" id="Poly07">
         <polystring>-285.75/-13.78|-284.84/-14.3|-283.98/-14.82|-283.64/-15.07|-283.33/-15.38|-283.17/-15.66|-283.16/-15.98|-283.19/-16.16|-283.34/-16.43|-283.57/-16.66|-283.53/-16.73|-283.81/-16.99|-285.67/-18.01|-288.91/-19.23|-290.02/-19.57|-292.2/-20.18|-292.99/-20.37|-294.3/-20.63|-297.75/-21.19|-299.13/-21.35|-307.5/-21.52|-309.79/-21.4|-306.65/-21.32|-302.58/-21.26|-299.39/-21.06|-295.62/-20.51|-293.27/-20.12|-293.12/-20.06|-290.55/-19.41|-288.52/-18.76|-286.98/-18.18|-285.64/-17.66|-285.37/-17.51|-284.58/-17.06|-284.36/-16.9|-284.22/-16.79|-284.04/-16.64|-283.9/-16.49|-283.74/-16.29|-283.67/-16.04|-283.62/-15.86|-283.65/-15.61|-283.76/-15.41|-283.93/-15.22|-284.12/-15.07|-284.78/-14.64|-285.4/-14.24|-285.83/-13.99</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly14" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly14">
         <polystring>-178.57/-25.77|-184.5/-37.91|-263.51/-82.49|-265.96/-81.46|-185.64/-37.3|-179.45/-26.07</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly11" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly11">
         <polystring>-263.76/-82.47|-324.61/-73.05|-325.21/-72.73|-325.52/-72.38|-325.65/-71.94|-325.95/-71.59|-324.54/-64|-324.37/-63.69|-324.15/-63.33|-321.08/-61.05|-320.49/-60.71|-320.01/-60.46|-291.87/-42.62|-291.26/-42.94|-318.57/-60.79|-319.34/-61.17|-319.73/-61.36|-322.51/-63.45|-322.88/-63.83|-322.92/-64.16|-323.34/-72.1|-322.57/-72.53|-265.86/-81.51</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly12" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly12">
         <polystring>-242.45/-31.54|-246.14/-37.35|-259.46/-43.83|-259.72/-43.95|-260.36/-44.08|-286.68/-42.67|-288.11/-42.46|-288.76/-42.4|-289.41/-42.33|-290.02/-42.41|-290.36/-42.52|-290.83/-42.73|-291.2/-43.1|-292.13/-42.9|-291.95/-42.51|-291.46/-42.12|-290.96/-41.83|-290.39/-41.65|-289.89/-41.59|-289.23/-41.54|-288.46/-41.51|-287.53/-41.69|-286.44/-41.87|-260.66/-43.19|-260.33/-43.16|-260.06/-43.01|-247.16/-36.91|-243.29/-31.33</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly01" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly01">
         <polystring>-299.75/-2.42|-304.64/-4.93|-305.02/-5.45|-305.07/-5.99|-304.97/-6.5|-304.7/-6.77|-304.31/-7.04|-298.28/-10.25|-284.79/-16.66|-171.99/-23.27|-154.31/-10.85|-153.94/-10.56|-153.24/-9.77|-153.32/-8.83|-154.03/-8.24|-162.67/-3.06|-163.08/-3.39|-154.83/-8.51|-154.33/-8.88|-154.15/-9.2|-154.11/-9.4|-154.24/-9.71|-154.34/-9.94|-154.73/-10.29|-155.05/-10.52|-172.31/-22.57|-277.62/-19.39|-284.22/-16.15|-300.47/-8.54|-303.83/-6.83|-304.41/-6.4|-304.48/-6.2|-304.51/-5.94|-304.53/-5.78|-304.49/-5.54|-304.41/-5.32|-304.2/-5.1|-299.53/-2.74</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly02" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xfb6b08" target="_blank">
+      <polyhotspot backgroundcolor="0xfb6b08" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly02">
         <polystring>-292.24/-3.55|-298.97/-4.58|-300.51/-5.13|-300.61/-5.26|-300.53/-5.43|-176.56/-21.73|-167.55/-17.73|-158.16/-11.54|-157.34/-9.09|-158.17/-7.24|-165.07/-3.35|-164.75/-3.08|-157.97/-6.84|-157.24/-7.73|-156.75/-8.93|-157.86/-12.04|-167.28/-18.11|-176.17/-22.23|-273.64/-19.48|-297.61/-7.72|-300.81/-5.91|-301.04/-5.75|-301.33/-5.45|-301.29/-5.18|-301.06/-4.96|-299.37/-4.32|-292.51/-3.3</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly03" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0x099985" target="_blank">
+      <polyhotspot backgroundcolor="0x099985" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly03">
         <polystring>-280.63/-17.97|-252.32/-9.87|-252.15/-9.08|-256.39/-6.14|-266.3/-1.62|-265.93/-1.44|-256.15/-5.87|-251.67/-8.84|-251.83/-9.97|-279.84/-18.28</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly04" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xfb6b08" target="_blank">
+      <polyhotspot backgroundcolor="0xfb6b08" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly04">
         <polystring>-275.15/-18.09|-277.73/-16.29|-278.52/-15.43|-278.31/-14.75|-277.75/-14.22|-273.56/-13.23|-270.96/-13.11|-270.18/-13.11|-270.07/-13|-267.03/-13.33|-265.96/-13.43|-264.68/-13.95|-264.38/-14.13|-264.22/-14.3|-264.1/-14.51|-264.13/-14.77|-264.17/-14.99|-264.32/-15.23|-264.51/-15.45|-264.76/-15.59|-265.11/-15.9|-265.34/-16|-265.61/-16.16|-265.97/-16.3|-266.17/-16.41|-266.43/-16.49|-273.13/-18.3|-352.68/-14.61|-0.99/-9.49|-1.13/-9.38|-1.22/-9.27|-1.45/-8.35|-1.23/-7.48|-357.9/-3.55|-357.79/-3.45|-357.76/-3.35|-357.71/-3.27|-357.66/-3.13|-357.73/-2.96|-357.98/-2.8|-359.39/-2.23|-359.24/-2.11|-357.71/-2.73|-357.46/-2.86|-357.3/-2.98|-357.23/-3.14|-357.28/-3.34|-357.51/-3.59|-0.41/-7.08|-0.84/-7.65|-0.88/-7.83|-0.95/-8.02|-0.97/-8.24|-0.97/-8.42|-0.96/-8.69|-0.91/-8.92|-0.77/-9.17|-358.11/-10.86|-352.38/-14.09|-348.03/-15.27|-331.88/-18.59|-297.6/-20.65|-272.22/-17.71|-266.59/-16.21|-266.66/-16.22|-266.22/-16.05|-265.92/-15.9|-265.63/-15.68|-265.47/-15.56|-265.31/-15.45|-265.16/-15.26|-264.95/-15.08|-264.84/-14.93|-264.78/-14.82|-264.77/-14.64|-264.85/-14.5|-264.98/-14.34|-265.08/-14.19|-265.22/-14.11|-266.19/-13.75|-267.09/-13.69|-270.36/-13.34|-273.43/-13.57|-277.6/-14.58|-277.96/-15.4|-274.72/-17.98</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly05" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf67683" target="_blank">
+      <polyhotspot backgroundcolor="0xf67683" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly05">
         <polystring>-25.93/-5.69|-45.63/-6.03|-55.29/-6.96|-79.02/-9.66|-85.85/-9.69|-94.25/-10.51|-99.91/-10.79|-118.28/-11.75|-154.31/-10.79|-183.12/-8.17|-212.79/-5.52|-237.83/-2.54|-237.6/-2.29|-212.1/-5.43|-182.99/-7.98|-154.03/-10.52|-126.34/-11.6|-100.12/-10.47|-94.2/-10.17|-85.83/-9.38|-79.03/-9.34|-65.91/-8.07|-55.42/-6.59|-45.5/-5.69|-26.35/-5.43</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly06" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly06">
         <polystring>-84.61/-3.55|-82.28/-6.72|-79.68/-10.78|-79.41/-11.08|-78.94/-11.43|-78.49/-11.66|-77.9/-11.92|-62.64/-15.43|-37.67/-21.74|-28.11/-22.56|-11.88/-21.28|-347.11/-13.82|-335.05/-8.53|-317.31/-5.38|-310.88/-3.75|-310.55/-3.88|-317.23/-5.63|-334.96/-8.88|-346.95/-14.19|-11.73/-21.59|-28.16/-22.92|-37.82/-22.1|-62.76/-15.77|-77.97/-12.27|-78.48/-12.08|-79.01/-11.82|-79.54/-11.55|-79.91/-11.15|-82.59/-6.89|-84.88/-3.59</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly08" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly08">
         <polystring>-199.62/-23.03|-201.44/-21.53|-205.53/-18.17|-205.85/-17.83|-205.94/-17.71|-206.18/-17.47|-206.19/-17.44|-206.23/-17.36|-206.28/-17.26|-206.29/-17.14|-206.28/-17.03|-206.26/-16.95|-206.23/-16.87|-206.15/-16.76|-205.99/-16.59|-205.73/-16.4|-205.17/-16|-201.62/-13.76|-197.59/-12|-173.79/-7.3|-162.29/-5.14|-162.57/-4.93|-168.51/-6.04|-173.87/-7.07|-197.43/-11.67|-197.66/-11.72|-197.86/-11.8|-201.74/-13.48|-205.17/-15.69|-205.54/-15.91|-205.85/-16.1|-206/-16.21|-206.13/-16.31|-206.19/-16.36|-206.27/-16.42|-206.33/-16.47|-206.38/-16.52|-206.41/-16.56|-206.47/-16.64|-206.52/-16.74|-206.55/-16.83|-206.58/-16.93|-206.58/-17.04|-206.54/-17.21|-206.45/-17.48|-206.24/-17.84|-205.94/-18.14|-200.01/-23.14</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly09" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly09">
         <polystring>-272.91/-81.35|-267.69/-44.17|-268.57/-44.05|-277.68/-81.25</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <polyhotspot description="" id="Poly10" url="" borderalpha="0" bordercolor="0x0000ff" backgroundalpha="0.784314" title="" backgroundcolor="0xf9de91" target="_blank">
+      <polyhotspot backgroundcolor="0xf9de91" borderalpha="0" target="_blank" backgroundalpha="0.784314" description="" title="" url="" bordercolor="0x0000ff" id="Poly10">
         <polystring>-281.35/-43.29|-322.92/-72.69|-323.79/-72.12|-282.14/-43.08</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
-      <hotspot pan="-717.42" description="" id="Point01" skinid="대상지로고" title="" url="" target="_blank" tilt="-48.26">
+      <hotspot title="" skinid="대상지로고" url="" tilt="-48.26" target="_blank" description="" pan="-717.42" id="Point01">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-344.5" description="" id="Point02" skinid="한듬스크린골프" title="" url="" target="_blank" tilt="-12.23">
+      <hotspot title="" skinid="한듬스크린골프" url="" tilt="-12.23" target="_blank" description="" pan="-344.5" id="Point02">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-359.72" description="" id="Point03" skinid="KS병원" title="" url="" target="_blank" tilt="-10.59">
+      <hotspot title="" skinid="KS병원" url="" tilt="-10.59" target="_blank" description="" pan="-359.72" id="Point03">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-334.38" description="" id="Point04" skinid="신창중학교" title="" url="" target="_blank" tilt="-4.59">
+      <hotspot title="" skinid="신창중학교" url="" tilt="-4.59" target="_blank" description="" pan="-334.38" id="Point04">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-328.84" description="" id="Point05" skinid="전남공업고등학교" title="" url="" target="_blank" tilt="-5.92">
+      <hotspot title="" skinid="전남공업고등학교" url="" tilt="-5.92" target="_blank" description="" pan="-328.84" id="Point05">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-323.44" description="" id="Point06" skinid="광주진흥고등학교" title="" url="" target="_blank" tilt="-4.73">
+      <hotspot title="" skinid="광주진흥고등학교" url="" tilt="-4.73" target="_blank" description="" pan="-323.44" id="Point06">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-342" description="" id="Point07" skinid="수문초등학교" title="" url="" target="_blank" tilt="-6.79">
+      <hotspot title="" skinid="수문초등학교" url="" tilt="-6.79" target="_blank" description="" pan="-342" id="Point07">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-319.51" description="" id="Point08" skinid="광주보건대학교" title="" url="" target="_blank" tilt="-2.81">
+      <hotspot title="" skinid="광주보건대학교" url="" tilt="-2.81" target="_blank" description="" pan="-319.51" id="Point08">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-313.59" description="" id="Point09" skinid="신창초등학교" title="" url="" target="_blank" tilt="-5.77">
+      <hotspot title="" skinid="신창초등학교" url="" tilt="-5.77" target="_blank" description="" pan="-313.59" id="Point09">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-0.0599944" description="" id="Point10" skinid="수완지하차도" title="" url="" target="_blank" tilt="-3.7">
+      <hotspot title="" skinid="수완지하차도" url="" tilt="-3.7" target="_blank" description="" pan="-0.0599944" id="Point10">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-348.73" description="" id="Point11" skinid="영산강" title="" url="" target="_blank" tilt="-1.46">
+      <hotspot title="" skinid="영산강" url="" tilt="-1.46" target="_blank" description="" pan="-348.73" id="Point11">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-5.88" description="" id="Point12" skinid="수문1공원" title="" url="" target="_blank" tilt="-5.01">
+      <hotspot title="" skinid="수문1공원" url="" tilt="-5.01" target="_blank" description="" pan="-5.88" id="Point12">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-31.01" description="" id="Point14" skinid="광주수완병원" title="" url="" target="_blank" tilt="-5.73">
+      <hotspot title="" skinid="광주수완병원" url="" tilt="-5.73" target="_blank" description="" pan="-31.01" id="Point14">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-23.07" description="" id="Point15" skinid="수완하나중학교" title="" url="" target="_blank" tilt="-5.96">
+      <hotspot title="" skinid="수완하나중학교" url="" tilt="-5.96" target="_blank" description="" pan="-23.07" id="Point15">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-34.42" description="" id="Point16" skinid="롯데마트" title="" url="" target="_blank" tilt="-2.48">
+      <hotspot title="" skinid="롯데마트" url="" tilt="-2.48" target="_blank" description="" pan="-34.42" id="Point16">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-43.34" description="" id="Point18" skinid="수완초등학교" title="" url="" target="_blank" tilt="-8.26">
+      <hotspot title="" skinid="수완초등학교" url="" tilt="-8.26" target="_blank" description="" pan="-43.34" id="Point18">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-53.31" description="" id="Point19" skinid="완동공원" title="" url="" target="_blank" tilt="-13.62">
+      <hotspot title="" skinid="완동공원" url="" tilt="-13.62" target="_blank" description="" pan="-53.31" id="Point19">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-49.78" description="" id="Point20" skinid="수완고등학교" title="" url="" target="_blank" tilt="-6.29">
+      <hotspot title="" skinid="수완고등학교" url="" tilt="-6.29" target="_blank" description="" pan="-49.78" id="Point20">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-47.36" description="" id="Point21" skinid="원단산공원" title="" url="" target="_blank" tilt="-2.1">
+      <hotspot title="" skinid="원단산공원" url="" tilt="-2.1" target="_blank" description="" pan="-47.36" id="Point21">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-60.7" description="" id="Point22" skinid="수완문화센터" title="" url="" target="_blank" tilt="-9.27">
+      <hotspot title="" skinid="수완문화센터" url="" tilt="-9.27" target="_blank" description="" pan="-60.7" id="Point22">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-70.36" description="" id="Point23" skinid="수완1저수지" title="" url="" target="_blank" tilt="-14.24">
+      <hotspot title="" skinid="수완1저수지" url="" tilt="-14.24" target="_blank" description="" pan="-70.36" id="Point23">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-99.05" description="" id="Point24" skinid="가람식자재마트" title="" url="" target="_blank" tilt="-4.46">
+      <hotspot title="" skinid="가람식자재마트" url="" tilt="-4.46" target="_blank" description="" pan="-99.05" id="Point24">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-127.08" description="" id="Point25" skinid="도촌2저수지" title="" url="" target="_blank" tilt="-9">
+      <hotspot title="" skinid="도촌2저수지" url="" tilt="-7.07" target="_blank" description="" pan="-127.46" id="Point25">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-139.77" description="" id="Point26" skinid="일진스포렉스" title="" url="" target="_blank" tilt="-3.99">
+      <hotspot title="" skinid="일진스포렉스" url="" tilt="-3.99" target="_blank" description="" pan="-139.77" id="Point26">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-158.93" description="" id="Point27" skinid="호남고속도로" title="" url="" target="_blank" tilt="-3.31">
+      <hotspot title="" skinid="호남고속도로" url="" tilt="-3.31" target="_blank" description="" pan="-158.93" id="Point27">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-110.81" description="" id="Point28" skinid="광주2호선" title="" url="" target="_blank" tilt="-6.21">
+      <hotspot title="" skinid="광주2호선" url="" tilt="-5.71" target="_blank" description="" pan="-111.09" id="Point28">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-188.46" description="" id="Point29" skinid="천곡중학교" title="" url="" target="_blank" tilt="-9.46">
+      <hotspot title="" skinid="천곡중학교" url="" tilt="-9.46" target="_blank" description="" pan="-188.46" id="Point29">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-172.87" description="" id="Point30" skinid="제봉산" title="" url="" target="_blank" tilt="4.34">
+      <hotspot title="" skinid="제봉산" url="" tilt="4.34" target="_blank" description="" pan="-172.87" id="Point30">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-194.67" description="" id="Point31" skinid="불태산" title="" url="" target="_blank" tilt="4.62">
+      <hotspot title="" skinid="불태산" url="" tilt="4.62" target="_blank" description="" pan="-194.67" id="Point31">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-200.26" description="" id="Point32" skinid="첨단중학교" title="" url="" target="_blank" tilt="-5.98">
+      <hotspot title="" skinid="첨단중학교" url="" tilt="-5.98" target="_blank" description="" pan="-200.26" id="Point32">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-212.23" description="" id="Point33" skinid="첨단고등학교" title="" url="" target="_blank" tilt="-13.15">
+      <hotspot title="" skinid="첨단고등학교" url="" tilt="-13.15" target="_blank" description="" pan="-212.23" id="Point33">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-214.79" description="" id="Point34" skinid="광주2호선" title="" url="" target="_blank" tilt="-0.26">
+      <hotspot title="" skinid="광주2호선" url="" tilt="-0.26" target="_blank" description="" pan="-214.79" id="Point34">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-250.79" description="" id="Point35" skinid="광주전자고등학교" title="" url="" target="_blank" tilt="-10.28">
+      <hotspot title="" skinid="광주전자고등학교" url="" tilt="-10.28" target="_blank" description="" pan="-250.79" id="Point35">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-224.32" description="" id="Point36" skinid="남부대학교" title="" url="" target="_blank" tilt="-10.14">
+      <hotspot title="" skinid="남부대학교" url="" tilt="-10.14" target="_blank" description="" pan="-224.32" id="Point36">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-276.91" description="" id="Point37" skinid="월봉산" title="" url="" target="_blank" tilt="-2.75">
+      <hotspot title="" skinid="월봉산" url="" tilt="-2.75" target="_blank" description="" pan="-276.91" id="Point37">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-291.57" description="" id="Point38" skinid="호남고속도로" title="" url="" target="_blank" tilt="-4.82">
+      <hotspot title="" skinid="호남고속도로" url="" tilt="-4.65" target="_blank" description="" pan="-292.53" id="Point38">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-54.51" description="" id="Point39" skinid="어등산" title="" url="" target="_blank" tilt="2.57">
+      <hotspot title="" skinid="어등산" url="" tilt="2.57" target="_blank" description="" pan="-54.51" id="Point39">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-64.08" description="" id="Point40" skinid="어등산CC" title="" url="" target="_blank" tilt="1.31">
+      <hotspot title="" skinid="어등산CCcc" url="" tilt="1.39" target="_blank" description="" pan="-63.98" id="Point40">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-265.9" description="" id="Point41" skinid="산월IC" title="" url="" target="_blank" tilt="-10.52">
+      <hotspot title="" skinid="산월IC" url="" tilt="-10.52" target="_blank" description="" pan="-265.9" id="Point41">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
     </hotspots>
     <media>
-      <image handcursor="0" id="Element03" rotx="26.000" stretch="1.000" height="1328" tilt="-61.620" pan="3.760" clickmode="0" width="1328" hidepinned="0" rotz="0.000" fov="32.150" popbackmode="0" roty="0.000">
+      <image roty="0.000" hidepinned="0" fov="32.150" rotz="0.000" handcursor="0" popbackmode="0" clickmode="0" height="1328" width="1328" stretch="1.000" tilt="-61.620" rotx="26.000" pan="3.760" id="Element03">
         <source url="media/8.png"/>
       </image>
-      <image handcursor="0" id="Element05" rotx="0.000" stretch="1.000" height="960" tilt="-2.730" pan="266.460" clickmode="0" width="960" hidepinned="0" rotz="2.000" fov="23.320" popbackmode="0" roty="0.000">
+      <image roty="0.000" hidepinned="0" fov="23.320" rotz="2.000" handcursor="0" popbackmode="0" clickmode="0" height="960" width="960" stretch="1.000" tilt="-2.730" rotx="0.000" pan="266.460" id="Element05">
         <source url="media/8-1.png"/>
       </image>
-      <image handcursor="0" id="Element06" rotx="0.000" stretch="1.000" height="784" tilt="-2.890" pan="284.910" clickmode="0" width="784" hidepinned="0" rotz="0.000" fov="19.320" popbackmode="0" roty="0.000">
+      <image roty="0.000" hidepinned="0" fov="19.320" rotz="0.000" handcursor="0" popbackmode="0" clickmode="0" height="784" width="784" stretch="1.000" tilt="-2.890" rotx="0.000" pan="284.910" id="Element06">
         <source url="media/ -1.png"/>
       </image>
     </media>
-    <transition zoomoutpause="1" type="crossdissolve" softedge="0" blendtime="1" zoomafterinfov="140" blendcolor="0x000000" enabled="1" delay="none" zoomspeed="2" zoomfov="40" zoomout="0" zoomafteroutfov="40" zoomin="0"/>
-    <autorotate speed="0.020" nodefilter="" returntohorizon="0.000" noderandom="1" enabled="1" delay="50.00" startloaded="0" useanimation="0" horizonfromdefview="0" nodedelay="0.00"/>
-    <animation clipsrandom="0" animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" sensitivity="8" contextprojections="0" zoomcentercursor="1" speedwheel="1" lockedwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedmouse="0" contextvr="1" hideabout="0"/>
+    <transition zoomspeed="2" zoomafterinfov="140" zoomoutpause="1" blendtime="1" zoomfov="40" zoomout="0" type="crossdissolve" zoomafteroutfov="40" delay="none" enabled="1" softedge="0" blendcolor="0x000000" zoomin="0"/>
+    <autorotate useanimation="0" returntohorizon="0.000" noderandom="1" nodedelay="0.00" speed="0.020" enabled="1" delay="50.00" nodefilter="" horizonfromdefview="0" startloaded="0"/>
+    <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control speedwheel="1" zoomcentercursor="1" lockedmouse="0" contextprojections="0" contextvr="1" hideabout="0" invertcontrol="1" invertwheel="0" sensitivity="8" lockedwheel="0" lockedkeyboard="0" dblclickfullscreen="0" rubberband="0" contextfullscreen="1" lockedkeyboardzoom="0" simulatemass="1"/>
   </panorama>
   <masternode>
-    <userdata comment="" description="" title="" tags="" copyright="" author=""/>
+    <userdata copyright="" tags="" comment="" description="" title="" author=""/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
   </masternode>
-  <customproperty variablename="vis_traffic" defaultvalue="false" variabletype="2" propertytype="1"/>
+  <customproperty defaultvalue="false" variablename="vis_traffic" variabletype="2" propertytype="1"/>
 </tour>
