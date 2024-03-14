@@ -141,7 +141,7 @@
       <hotspot pan="-31.01" description="" id="Point14" skinid="광주수완병원" title="" url="" target="_blank" tilt="-5.73">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-26.48" description="" id="Point15" skinid="수완하나중학교" title="" url="" target="_blank" tilt="-6.35">
+      <hotspot pan="-23.07" description="" id="Point15" skinid="수완하나중학교" title="" url="" target="_blank" tilt="-5.96">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot pan="-34.42" description="" id="Point16" skinid="롯데마트" title="" url="" target="_blank" tilt="-2.48">
@@ -183,10 +183,10 @@
       <hotspot pan="-188.46" description="" id="Point29" skinid="천곡중학교" title="" url="" target="_blank" tilt="-9.46">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-172.93" description="" id="Point30" skinid="제봉산" title="" url="" target="_blank" tilt="2.11">
+      <hotspot pan="-172.87" description="" id="Point30" skinid="제봉산" title="" url="" target="_blank" tilt="4.34">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-194.53" description="" id="Point31" skinid="불태산" title="" url="" target="_blank" tilt="3.61">
+      <hotspot pan="-194.67" description="" id="Point31" skinid="불태산" title="" url="" target="_blank" tilt="4.62">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot pan="-200.26" description="" id="Point32" skinid="첨단중학교" title="" url="" target="_blank" tilt="-5.98">
@@ -204,10 +204,10 @@
       <hotspot pan="-224.32" description="" id="Point36" skinid="남부대학교" title="" url="" target="_blank" tilt="-10.14">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-276.12" description="" id="Point37" skinid="월봉산" title="" url="" target="_blank" tilt="-3.57">
+      <hotspot pan="-276.91" description="" id="Point37" skinid="월봉산" title="" url="" target="_blank" tilt="-2.75">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot pan="-291.64" description="" id="Point38" skinid="호남고속도로" title="" url="" target="_blank" tilt="-6.98">
+      <hotspot pan="-291.57" description="" id="Point38" skinid="호남고속도로" title="" url="" target="_blank" tilt="-4.82">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot pan="-54.51" description="" id="Point39" skinid="어등산" title="" url="" target="_blank" tilt="2.57">
