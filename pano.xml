@@ -24,7 +24,7 @@
     </hotspots>
     <media>
       <image tilt="-12.900" rotz="0.000" handcursor="0" popbackmode="0" width="1824" pan="1.390" clickmode="0" roty="0.000" id="Element01" stretch="1.000" fov="43.330" hidepinned="0" height="1408" rotx="27.000">
-        <source url="media/ 5.png"/>
+        <source url="media/ 6.png"/>
       </image>
     </media>
     <transition delay="none" zoomoutpause="1" zoomout="0" zoomafterinfov="140" type="crossdissolve" enabled="1" softedge="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
