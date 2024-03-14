@@ -126,6 +126,10 @@
         <polystring>-173.08/-7.9|-175.17/-8.15|-177.35/-8.39|-179.95/-8.88|-182.42/-9.36|-186.87/-10.18|-190.43/-10.83|-195.64/-11.57|-197.71/-12.03|-198.32/-12.19|-199.75/-12.9|-200.52/-13.27|-202.68/-14.38|-204.05/-15.16|-204.57/-15.72|-204.91/-16.2|-204.93/-16.52|-205.22/-17.23|-205.03/-17.84|-204.16/-19.15|-202.1/-20.91|-199.93/-22.69|-199.32/-23.12|-201.89/-23.39|-202.92/-22.27|-206.39/-18.38|-207.03/-17.26|-207.06/-16.76|-206.36/-16.15|-204.15/-15.04|-201.05/-13.16|-200.02/-12.58|-199.01/-12.11|-197.78/-11.71|-195.8/-11.31|-190.68/-10.47|-187.02/-9.86|-182.43/-9.11|-180.14/-8.71|-177.53/-8.24|-175.18/-8</polystring>
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </polyhotspot>
+      <polyhotspot url="" backgroundcolor="0xffaa00" backgroundalpha="0.470588" bordercolor="0x0000ff" borderalpha="0" target="_blank" id="Poly20" title="" description="">
+        <polystring>-202.43/-6.54|-232.25/-3.12|-229.53/-3.36|-218.7/-4.59|-203.84/-6.21|-202.01/-6.28</polystring>
+        <custompropertyvalue variablename="vis_traffic" value="false"/>
+      </polyhotspot>
       <hotspot tilt="-48.26" url="" target="_blank" id="Point01" skinid="대상지로고" title="" description="" pan="-717.42">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
@@ -150,13 +154,13 @@
       <hotspot tilt="-0.43" url="" target="_blank" id="Point08" skinid="광주보건대학교" title="" description="" pan="-319.71">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-4.77" url="" target="_blank" id="Point09" skinid="신창초등학교" title="" description="" pan="-313.44">
+      <hotspot tilt="-4.88" url="" target="_blank" id="Point09" skinid="신창초등학교" title="" description="" pan="-313.42">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="-1.06" url="" target="_blank" id="Point10" skinid="수완지하차도" title="" description="" pan="-358.55">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="1.46" url="" target="_blank" id="Point11" skinid="영산강" title="" description="" pan="-350.79">
+      <hotspot tilt="-1.46" url="" target="_blank" id="Point11" skinid="영산강" title="" description="" pan="-348.73">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="-4.2" url="" target="_blank" id="Point12" skinid="수문1공원" title="" description="" pan="-5.66">
@@ -174,7 +178,7 @@
       <hotspot tilt="-7.36" url="" target="_blank" id="Point18" skinid="수완초등학교" title="" description="" pan="-43.28">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-10.12" url="" target="_blank" id="Point19" skinid="완동공원" title="" description="" pan="-54.34">
+      <hotspot tilt="-13.62" url="" target="_blank" id="Point19" skinid="완동공원" title="" description="" pan="-53.31">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="-5.19" url="" target="_blank" id="Point20" skinid="수완고등학교" title="" description="" pan="-49.7">
@@ -192,19 +196,19 @@
       <hotspot tilt="-5.4" url="" target="_blank" id="Point24" skinid="가람식자재마트" title="" description="" pan="-98.06">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-6.12" url="" target="_blank" id="Point25" skinid="도촌2저수지" title="" description="" pan="-126.59">
+      <hotspot tilt="-8.06" url="" target="_blank" id="Point25" skinid="도촌2저수지" title="" description="" pan="-126.67">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="-2.73" url="" target="_blank" id="Point26" skinid="일진스포렉스" title="" description="" pan="-139.49">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-2.05" url="" target="_blank" id="Point27" skinid="호남고속도로" title="" description="" pan="-157.98">
+      <hotspot tilt="-2.47" url="" target="_blank" id="Point27" skinid="호남고속도로" title="" description="" pan="-158.56">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="-7.72" url="" target="_blank" id="Point28" skinid="광주2호선" title="" description="" pan="-110.08">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-8.7" url="" target="_blank" id="Point29" skinid="천곡중학교" title="" description="" pan="-188.63">
+      <hotspot tilt="-8.72" url="" target="_blank" id="Point29" skinid="천곡중학교" title="" description="" pan="-188.57">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="2.98" url="" target="_blank" id="Point30" skinid="제봉산" title="" description="" pan="-172.72">
@@ -216,22 +220,22 @@
       <hotspot tilt="-4.92" url="" target="_blank" id="Point32" skinid="첨단중학교" title="" description="" pan="-200.2">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-11.9" url="" target="_blank" id="Point33" skinid="첨단고등학교" title="" description="" pan="-212.01">
+      <hotspot tilt="-11.91" url="" target="_blank" id="Point33" skinid="첨단고등학교" title="" description="" pan="-212.07">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-0.85" url="" target="_blank" id="Point34" skinid="광주2호선" title="" description="" pan="-214.73">
+      <hotspot tilt="-1.48" url="" target="_blank" id="Point34" skinid="광주2호선" title="" description="" pan="-214.76">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-13.96" url="" target="_blank" id="Point35" skinid="광주전자고등학교" title="" description="" pan="-222.81">
+      <hotspot tilt="-9.26" url="" target="_blank" id="Point35" skinid="광주전자고등학교" title="" description="" pan="-250.73">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-7.61" url="" target="_blank" id="Point36" skinid="남부대학교" title="" description="" pan="-230.39">
+      <hotspot tilt="-9.64" url="" target="_blank" id="Point36" skinid="남부대학교" title="" description="" pan="-224.29">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-2.04" url="" target="_blank" id="Point37" skinid="월봉산" title="" description="" pan="-269">
+      <hotspot tilt="-2.39" url="" target="_blank" id="Point37" skinid="월봉산" title="" description="" pan="-276.06">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-6.39" url="" target="_blank" id="Point38" skinid="호남고속도로" title="" description="" pan="-290.08">
+      <hotspot tilt="-6.65" url="" target="_blank" id="Point38" skinid="호남고속도로" title="" description="" pan="-290.81">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
       <hotspot tilt="3.64" url="" target="_blank" id="Point39" skinid="어등산" title="" description="" pan="-54.7">
@@ -240,13 +244,13 @@
       <hotspot tilt="2.16" url="" target="_blank" id="Point40" skinid="어등산CC" title="" description="" pan="-64.06">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
-      <hotspot tilt="-10.12" url="" target="_blank" id="Point41" skinid="산월IC" title="" description="" pan="-264.84">
+      <hotspot tilt="-10.52" url="" target="_blank" id="Point41" skinid="산월IC" title="" description="" pan="-265.9">
         <custompropertyvalue variablename="vis_traffic" value="false"/>
       </hotspot>
     </hotspots>
     <media>
       <image tilt="-61.620" rotz="0.000" handcursor="0" popbackmode="0" width="1328" pan="3.760" clickmode="0" roty="0.000" id="Element03" stretch="1.000" fov="32.150" hidepinned="0" height="1328" rotx="26.000">
-        <source url="media/ 6.png"/>
+        <source url="media/7.png"/>
       </image>
     </media>
     <transition delay="none" zoomoutpause="1" zoomout="0" zoomafterinfov="140" type="crossdissolve" enabled="1" softedge="0" blendtime="1" zoomfov="40" zoomafteroutfov="40" blendcolor="0x000000" zoomin="0" zoomspeed="2"/>
